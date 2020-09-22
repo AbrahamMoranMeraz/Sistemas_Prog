@@ -4,7 +4,7 @@ Respositorio personal para la materia de Sistemas Programables.
 ___
 1. Introduccion
     - [C0.1 - Conformacion de Equipos](blog/C0.1_MoranMerazAbraham_3.md)
-    - [C0.1 - Industria 4.0 e IoT](blog/C0.1_MoranMerazAbraham_3.md)
+    - [C0.1 - Industria 4.0 e IoT](blog/C0.2_MoranMerazAbraham_3.md)
 ## Acerca de mi
 ___
 Soy estudiante del TecNM en Tijuana, actualmente estudio la licenciatura en ingeniería en sistemas computacionales.
