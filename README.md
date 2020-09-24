@@ -27,3 +27,5 @@ Soy estudiante del TecNM en Tijuana, actualmente estudio la licenciatura en inge
 Mi pación es la resolución de problemas y plasmarlos en código, me gusta combinar mis conocimientos en otras áreas con la programación tales como la electrónica.
 Me gusta mucho el trabajo colaborativo en particular utilizando el marco de trabajo SCRUM.
 Actualmente estoy tomando cursos con Microsoft Teams para aprender sobre la nube.
+
+[Enlace a mi GitHub](https://github.com/Abr06/Sistemas_Prog.git)
