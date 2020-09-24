@@ -1,6 +1,8 @@
 # :book: Sistemas Programables
 
 Respositorio personal para la materia de Sistemas Programables.
+Mi nombre es Moran Meraz Abraham mi numero de control es 17212161, el equipo con el que trabajo se llama Office Boys.
+El asesor de la materia es JAIME LEONARDO ENRIQUEZ ALVAREZ
 
 ## Contenido
 
@@ -15,7 +17,13 @@ ___
 ## Acerca de mi
 
 ___
+<p align="center"> 
+    <img alt="Logo TecNM" src="/img/pleca_tecnm.jpg">    
+</p>
 Soy estudiante del TecNM en Tijuana, actualmente estudio la licenciatura en ingeniería en sistemas computacionales.
+<p align="center"> 
+    <img alt="Logo ISC" src="/img/Carrera.png" width=150 height=150>    
+</p>
 Mi pación es la resolución de problemas y plasmarlos en código, me gusta combinar mis conocimientos en otras áreas con la programación tales como la electrónica.
 Me gusta mucho el trabajo colaborativo en particular utilizando el marco de trabajo SCRUM.
 Actualmente estoy tomando cursos con Microsoft Teams para aprender sobre la nube.
