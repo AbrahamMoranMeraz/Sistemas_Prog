@@ -13,6 +13,7 @@ ___
     - [C0.1 - Industria 4.0 e IoT](blog/C0.2_MoranMerazAbraham_3.md)
     - [C1.1 - Cuestionario electrónica básica y sus elementos](blog/C1.1_MoranMerazAbraham_3.md)
     - [C1.2 - Circuito electrónico básico](blog/C1.2_MoranMerazAbraham_3.md)
+    - [C1.3 - Circuito electrónico para uso con sensores y transductores](blog/C1.3_MoranMerazAbraham_3.md)
 
 ## Acerca de mi
 
