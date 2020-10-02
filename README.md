@@ -14,6 +14,7 @@ ___
     - [C1.1 - Cuestionario electrónica básica y sus elementos](blog/C1.1_MoranMerazAbraham_3.md)
     - [C1.2 - Circuito electrónico básico](blog/C1.2_MoranMerazAbraham_3.md)
     - [C1.3 - Circuito electrónico para uso con sensores y transductores](blog/C1.3_MoranMerazAbraham_3.md)
+    - [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](blog/A1.2_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
