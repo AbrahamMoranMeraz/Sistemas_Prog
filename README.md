@@ -16,6 +16,7 @@ ___
     - [C1.3 - Circuito electrónico para uso con sensores y transductores](blog/C1.3_MoranMerazAbraham_3.md)
     - [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](blog/A1.2_MoranMerazAbraham_OfficeBoys.md)
     - [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional ](blog/C1.4_MoranMerazAbraham_OfficeBoys.md)
+    - [A.1.3 Tipos de sensores Comerciales.](blog/A1.3_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
