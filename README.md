@@ -18,6 +18,7 @@ ___
     - [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional ](blog/C1.4_MoranMerazAbraham_OfficeBoys.md)
     - [A.1.3 Tipos de sensores Comerciales.](blog/A1.3_MoranMerazAbraham_OfficeBoys.md)
     - [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](blog/C1.5_MoranMerazAbraham_OfficeBoys.md)
+    - [A.1.4 Sensor de Temperatura TMP36](blog/A1.4_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
