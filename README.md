@@ -23,6 +23,7 @@ ___
 3. Unidad II
     - [C2.1 Cuestionario Actuadores y su clasificacion](blog/C2.1_MoranMerazAbraham_OfficeBoys.md)
     - [C2.2 Actuadores eléctricos y sus tipos](blog/C2.2_MoranMerazAbraham_OfficeBoys.md)
+    - [C2.3 ](blog/C2.3_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
