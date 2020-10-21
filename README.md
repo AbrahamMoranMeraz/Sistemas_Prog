@@ -22,6 +22,7 @@ ___
     - [A.1.4 Sensor de Temperatura TMP36](blog/A1.4_MoranMerazAbraham_OfficeBoys.md)
 3. Unidad II
     - [C2.1 Cuestionario Actuadores y su clasificacion](blog/C2.1_MoranMerazAbraham_OfficeBoys.md)
+    - [C2.2 Actuadores eléctricos y sus tipos](blog/C2.2_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
