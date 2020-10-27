@@ -20,10 +20,10 @@ ___
     - [A.1.3 Tipos de sensores Comerciales.](blog/A1.3_MoranMerazAbraham_OfficeBoys.md)
     - [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](blog/C1.5_MoranMerazAbraham_OfficeBoys.md)
     - [A.1.4 Sensor de Temperatura TMP36](blog/A1.4_MoranMerazAbraham_OfficeBoys.md)
-3. Unidad II
     - [C2.1 Cuestionario Actuadores y su clasificacion](blog/C2.1_MoranMerazAbraham_OfficeBoys.md)
     - [C2.2 Actuadores eléctricos y sus tipos](blog/C2.2_MoranMerazAbraham_OfficeBoys.md)
     - [C2.3 Circuito temporizador con circuito NE555](blog/C2.3_MoranMerazAbraham_OfficeBoys.md)
+    - [A2.1 Investigación sobre actuadores eléctricos](docs/Motor%20Unipolar%20Paso%20A%20Paso%2017PM-KA39U.pdf)
 
 ## Acerca de mi
 
