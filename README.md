@@ -28,6 +28,8 @@ ___
 3. Unidad III
     - [C3.1 Arduino IDE Salida Digital](blog/C3.1_MoranMerazAbraham_OfficeBoys.md)
     - [C3.2 Arduino IDE Entrada Digital e impresion serial](blog/C3.2_MoranMerazAbraham_OfficeBoys.md)
+    - [C3.3 Arduino IDE Entrada Analoga y funcion serial](blog/C3.3_MoranMerazAbraham_OfficeBoys.md)
+    - [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](blog/C3.4_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
