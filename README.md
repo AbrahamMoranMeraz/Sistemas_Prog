@@ -32,6 +32,7 @@ ___
     - [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](blog/C3.4_MoranMerazAbraham_OfficeBoys.md)
     - [A3.1 Circuito sensor de deteccion de objetos](blog/A3.1_MoranMerazAbraham_OfficeBoys.md)
     - [C3.6 Arduino IDE y Entrada Analogica](blog/C3.6_MoranMerazAbraham_OfficeBoys.md)
+    - [C3.7 Arduino IDE, ESP32 y PWM](blog/C3.7_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
