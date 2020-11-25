@@ -33,6 +33,7 @@ ___
     - [A3.1 Circuito sensor de deteccion de objetos](blog/A3.1_MoranMerazAbraham_OfficeBoys.md)
     - [C3.6 Arduino IDE y Entrada Analogica](blog/C3.6_MoranMerazAbraham_OfficeBoys.md)
     - [C3.7 Arduino IDE, ESP32 y PWM](blog/C3.7_MoranMerazAbraham_OfficeBoys.md)
+    - [C3.8 Arduino IDE, ESP32 y Sensor Touch](blog/C3.8_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
