@@ -34,6 +34,7 @@ ___
     - [C3.6 Arduino IDE y Entrada Analogica](blog/C3.6_MoranMerazAbraham_OfficeBoys.md)
     - [C3.7 Arduino IDE, ESP32 y PWM](blog/C3.7_MoranMerazAbraham_OfficeBoys.md)
     - [C3.8 Arduino IDE, ESP32 y Sensor Touch](blog/C3.8_MoranMerazAbraham_OfficeBoys.md)
+    - [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](blog/A3.2_ESP32_OfficeBoys.md)
 
 ## Acerca de mi
 
