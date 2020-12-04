@@ -37,7 +37,7 @@ ___
     - [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](blog/A3.2_ESP32_OfficeBoys.md)
     - [A3.3 Temperatura y Humedad con DHT11, el ESP32 ademas de un LED RGB](blog/A3.3_ESP32_SensorTemperatura_DHT11.md)
 4. Unidad IV
-    - [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_ArduinoIDE_ESP32_Bluetooth.md)
+    - [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
