@@ -38,6 +38,7 @@ ___
     - [A3.3 Temperatura y Humedad con DHT11, el ESP32 ademas de un LED RGB](blog/A3.3_ESP32_SensorTemperatura_DHT11.md)
 4. Unidad IV
     - [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_MoranMerazAbraham_OfficeBoys.md)
+    - [A4.1 Esp32 y L293d, Control de Motor por Bluetooth](blog/A4.1_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
