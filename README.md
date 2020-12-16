@@ -40,6 +40,7 @@ ___
     - [C4.1  Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_MoranMerazAbraham_OfficeBoys.md)
     - [A4.1 Esp32 y L293d, Control de Motor por Bluetooth](blog/A4.1_MoranMerazAbraham_OfficeBoys.md)
     - [C4.2 Servidor Web, control de led con el esp32](blog/C4.2_MoranMerazAbraham_OfficeBoys.md)
+    - [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](blog/A4.2_MoranMerazAbraham_OfficeBoys.md)
 
 ## Acerca de mi
 
